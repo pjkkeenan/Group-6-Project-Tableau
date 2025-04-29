@@ -61,8 +61,7 @@ MIST 4610 - Project 2
 
 <h1> Tableau Packaged Workbook </h1>
 
-<ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/new%20california%20heat%20map%20woorkbook%20with%20avg%20income.twbx">Question 1</a></ul>
+<ul><a href="https://github.com/user-attachments/files/19964683/new.corrected.wookbook.for.question.1.zip)">Question 1</a></ul>
 <ul><a href="https://raw.githubusercontent.com/ndp88405/MIST-PROJECT-2/refs/heads/main/Project%202%20-%20Question%202.twbx">Question 2</a></ul>
 
-[new corrected wookbook for question 1.zip](https://github.com/user-attachments/files/19964656/new.corrected.wookbook.for.question.1.zip)
 
