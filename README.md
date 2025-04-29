@@ -48,7 +48,7 @@ MIST 4610 - Project 2
 <img width="650" src ="https://github.com/user-attachments/assets/3275bb15-9a46-4462-8ec5-ce2d6240f8ff">
 <li>Counties with lower median incomes tend to have higher affordability ratios.</li>
 <li>This indicates that in many counties, food consumes a larger portion of income. </li>
-<li>Los Angeles County has a high food affordability ratio due to factors such as high population density and a homelessness problem that weighs down median income among other socioeconomic factors that further contribute to this problem</li>
+<li>San Mateo County has a high food affordability ratio due to factors such as high population density and a homelessness problem that weighs down median income among other socioeconomic factors that further contribute to this problem</li>
 
 <h2>Question 2 Visualization</h2>
 <img width="650" src ="https://github.com/user-attachments/assets/1fc14b39-67bb-47ca-85a3-c8deb4e25900">
